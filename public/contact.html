@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="./css/main.css">
+    <script defer src="./js/contact.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header> 
+            <a href="/homepage.html" class="logo">Erika</a>
+            <nav class="navbar">
+                <ul class="nav-menu">
+                <li><a class="nav-menu-item" href="/index.html">About</a></li>
+                <li><a class="nav-menu-item" href="/skills.html">Skills</a></li>
+                <li><a class="nav-menu-item" href="/experience">Experience</a></li>
+                <li><a class="nav-menu-item" href="/photos.html">Photos</a></li>
+                <li><a class="nav-menu-item" href="/contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        
+        <div class="content-wrapper">
+        
+        <main id="mainform">
+            <h2>Contact Form</h2>
+            <form id="form" name="form">
+                <div class="input-control">
+                    <label for="firstName">First Name:</label>
+                    <input id="firstName" name="firstName" type="text">
+                    <p class="error"></p>  
+                </div>
+                <div class="input-control">
+                    <label for="lastName">Last Name:</label>
+                    <input id="lastName" name="lastName" type="text">
+                    <p class="error"></p>  
+                </div>
+                <div class="input-control">
+                    <label for="email">Email:</label>
+                    <input id="email" name="email" type="text" required>
+                    <p class="error"></p>  
+                </div>
+                <div class="input-control">
+                    <label for="question">Question:</label>
+                    <input id="question" name="question" type="text">
+                    <p class="error"></p>  
+                </div>
+                <button type="submit">Submit</button>
+            </form>
+            
+            <div class="results" id="results"></div> 
+        </main>
+        </div>
+        <footer>© 2024 Erika Seto Portfolio. All Rights Reserved. 
+        <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"><i class="linkedin">Follow me on LinkedIn</i></a> 
+        </footer>
+    </div>
+
+</body>
+</html>

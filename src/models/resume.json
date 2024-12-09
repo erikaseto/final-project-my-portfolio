@@ -1,0 +1,16 @@
+[
+    {"id":1,"company": "XXX Pharmacy", "location": "XXX, CA","jobtitle": "Pharmacist", "duration": "November 2022 - present", 
+    "responsibilities1": "Educated patients on prescription and non-prescription medications by using easily understandable language to relay relevant clinical information",
+    "responsibilities2": "Contacted 40+ patients daily to discuss potential gaps in therapy, medication adherence, and follow-up on new medications",
+    "responsibilities3": "Administered flu, shingles, pneumonia, and other vaccines to patients on site and at flu clinics"},
+
+    {"id":2,"company": "XXX Pharmacy", "location": "XXX, MA", "jobtitle": "Pharmacist", "duration": "February 2022 - November 2022", 
+    "responsibilities1": "Monitored and supported a team of 6 pharmacy technicians in fulfilling over 1400 prescriptions per week",
+    "responsibilities2": "Audited patient records for appropriate documentation and accuracy of information in order to maintain accreditation requirements ",
+    "responsibilities3": "Completed proactive risk assessments for medications that are new to the pharmacy's formulary"},
+    
+    {"id":3,"company": "XXX Pharmacy", "location": "XXX, MA", "jobtitle": "Intern", "duration": "March 2017 - May 2021", 
+    "responsibilities1": "Provided quality customer service in a demanding environment and handled phone calls from patients in a timely manner",
+    "responsibilities2": "Resolved third party payer rejections and other prescription processing issues",
+    "responsibilities3": "Processed returns for nonsalable medications weekly to prevent accumulation and ensure proper disposal and maintained inventory counts"}
+]

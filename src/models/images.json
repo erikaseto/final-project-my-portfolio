@@ -1,0 +1,6 @@
+[
+    {"id":1, "image": "/images/cat.png", "description": "My sister's cat."},
+    {"id":2, "image": "/images/city.png", "description": "Queen Elizabeth Park in Vancouver"},
+    {"id":3, "image": "/images/architecture.png", "description": "A sculpture in Bellevue, Washington"},
+    {"id":4, "image": "/images/plane.png", "description": "Enjoying the window seat for these views."}
+]
